@@ -1,5 +1,7 @@
 # ChatSocketVite
 
+### Live deploy: https://socketvitechatapp.onrender.com/
+
  ChatSocketVite is a real-time chat application built with the MERN stack, using Vite for the frontend and Socket.IO for real-time communication. The app provides a seamless messaging experience with features such as authentication, image uploads, and live status updates.
 
 <hr/>
